@@ -1,0 +1,8 @@
+torch
+torchvision
+segmentation-models-pytorch==0.3.3
+albumentations==1.4.4
+opencv-python-headless
+numpy
+matplotlib
+tqdm
