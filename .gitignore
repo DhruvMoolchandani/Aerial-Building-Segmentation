@@ -5,8 +5,8 @@ __pycache__/
 .env
 *.log
 
-data/
-datasets/
+/data/
+/datasets/
 
 .DS_Store
 checkpoints/*.pth
